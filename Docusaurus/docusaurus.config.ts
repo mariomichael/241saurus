@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: '241saurus',
-  tagline: 'Halo semua',
+  tagline: 'Keep The Blue Flag Flying High',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
